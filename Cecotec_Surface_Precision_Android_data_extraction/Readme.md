@@ -31,3 +31,4 @@ This script allows to extract the measurements from the app "screenshots" after 
 - The script will update already existing .csv files with the newly processed data and overwrite any existing graphs
 - The folder "./data_conv_to_pdf" is used to hold temporary .pdf files used for data extraction
 - Original .jpg and produced .pdf files will be renamed in the user_YYYY-MM-DD_HH_MM format in a newly "./processed_data/user/raw_data_renamed" folder
+- An already processed dataset is provided as an exemple of the script imput and output
